@@ -27,14 +27,13 @@ This will start your app on `localhost:3000`
 ## Project Demo
 This project is deployed using [netlify](https://www.netlify.com/).
 Link - https://vvchat-app.netlify.app/
-To Enter Chat you can enter as any of the mentioned credentials -
-#
+To Enter Chat you can enter as any of the mentioned credentials -\
 **Username** : 
 *leviackerman*,
 *narutouzumaki*,
-*kimwonjoo*,
-#
+*kimwonjoo*\
 **Password** for all is *123123*
+
 ##### Chat UI
 ![alt text](https://github.com/vidushi-rastogi/react-chat-app/blob/master/chatui.jpeg?raw=true)
 #
