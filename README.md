@@ -26,7 +26,7 @@ This will start your app on `localhost:3000`
 
 ## Project Demo
 This project is deployed using [netlify](https://www.netlify.com/).
-Link - https://vvchat-app.netlify.app/
+Link - https://vvchat-app.netlify.app/ \
 To Enter Chat you can enter as any of the mentioned credentials -\
 **Username** : 
 *leviackerman*,
